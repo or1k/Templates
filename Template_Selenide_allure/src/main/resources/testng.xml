@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="10" name="Template_Selenide_Allure" configfailurepolicy="continue">
+    <test name="Template_Selenide_Allure">
+        <classes>
+            <class name="Testtest"/>
+        </classes>
+    </test>
+</suite>
